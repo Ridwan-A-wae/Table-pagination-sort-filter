@@ -1,0 +1,31 @@
+.btn {
+    padding: 1rem;
+    margin: 0 0.3rem;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: 500;
+    transition: all 250ms;
+}
+.btn:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.disBtn {
+    padding: 1rem;
+    margin: 0 0.3rem;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: 500;
+    transition: all 250ms;
+}
+.filterInput {
+    width: 250px;
+    height: 40px;
+    padding: 0 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    border: 2px solid silver;
+    outline: none;
+}
